@@ -1,6 +1,6 @@
 # Hello I'm Rebecca. 
 ## Welcome to my profile.
-## I study ads at the UNIFIL
+## I study ads at the Vincit
 ### I’m currently learning Javascript and open for working!
 
 <div align="center">
